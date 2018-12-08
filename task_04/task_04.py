@@ -1,7 +1,6 @@
 import sys
 from typing import Counter, Dict, List
 
-
 class Sleep:
     def __init__(self) -> None:
         self.duration: int = 0
